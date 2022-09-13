@@ -56,9 +56,8 @@
       //main.innerHTML="<code>" + JSON.stringify(csv) + "</code>";
       csv.forEach(function(row) {
         main2.innerHTML += "<h3>" + row.name +"</h3>";
-        main2.innerHTML += "<p>" + row.twitter;
+        main2.innerHTML += "<p><a href=\""+ row.twitter +"\">Twitter</a></p>";
         main2.innerHTML += "<p>" + row.description +"</p>";
-        
       })
           })
 
