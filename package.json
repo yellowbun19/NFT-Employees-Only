@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^2.2.2",
+    "@solana/spl-token": "^0.2.0",
+    "@solana/wallet-adapter-base": "^0.9.9",
+    "@solana/wallet-adapter-wallets": "^0.16.8",
+    "@solana/web3.js": "^1.50.1",
+    "g": "^2.0.1",
+    "live-server": "^1.2.2"
+  }
+}
